@@ -87,7 +87,6 @@ export default Ember.Component.extend({
     return prevTopic;
   },
 
-  @observes('category')
   _cleanLastVisitedTopic() {
     const prevTopic = this.get('prevTopic');
 
