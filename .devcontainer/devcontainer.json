@@ -1,6 +1,6 @@
 {
 	"name": "Discourse",
-	"image": "discourse/discourse_dev",
+	"image": "discourse/discourse_dev:release",
 	"workspaceMount": "source=${localWorkspaceFolder}/../..,target=/var/www/discourse,type=bind",
 	"workspaceFolder": "/var/www/discourse",
 	"extensions": ["rebornix.Ruby"],
