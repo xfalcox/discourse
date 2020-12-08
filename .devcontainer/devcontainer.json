@@ -5,5 +5,5 @@
 	"workspaceFolder": "/var/www/discourse",
 	"extensions": ["rebornix.Ruby"],
     "forwardPorts": [9292],
-	"remoteUser": "vscode"
+	"remoteUser": "root"
 }
