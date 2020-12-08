@@ -4,9 +4,9 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Prepare Discourse",
+            "label": "Prepare discourse",
             "type": "shell",
-            "command": "cd /var/www/discourse && bundle install && yarn && bin/rake db:create && bin/rake db:migrate"
+            "command": "cd /home/discourse/workspace/discourse && bundle install && yarn && bin/rake db:migrate"
         }, 
     ], 
 }
