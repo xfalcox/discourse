@@ -8,10 +8,10 @@
             "name": "Discourse",
             "type": "Ruby",
             "request": "launch",
-            "cwd": "/var/www/discourse", 
+            "cwd": "/home/discourse/workspace/discourse", 
             // run bundle install before rails server
             "preLaunchTask": "Prepare discourse",
-            "env": { "DISCOURSE_DEV_HOSTS": "${env:CLOUDENV_ENVIRONMENT_ID}-9292.apps.codespaces.githubusercontent.com", "UNICORN_BIND_ALL": "1", "UNICORN_WORKERS": "1", "DISCOURSE_DEV_ALLOW_ANON_TO_IMPERSONATE": "1" },
+            "env": { "DISCOURSE_DEV_HOSTS": "${env:CLOUDENV_ENVIRONMENT_ID}-9292.apps.codespaces.githubusercontent.com", "UNICORN_BIND_ALL": "1", "UNICORN_WORKERS": "4", "DISCOURSE_DEV_ALLOW_ANON_TO_IMPERSONATE": "1" },
             "program": "bin/unicorn",
             "args": ["-x"],
         }
