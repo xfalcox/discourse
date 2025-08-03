@@ -107,8 +107,8 @@ importers:
         specifier: 1.8.2
         version: 1.8.2
       playwright:
-        specifier: 1.52.0
-        version: 1.52.0
+        specifier: 1.54.2
+        version: 1.54.2
       prettier:
         specifier: 3.5.3
         version: 3.5.3
@@ -7037,13 +7037,13 @@ packages:
     resolution: {integrity: sha512-nDywThFk1i4BQK4twPQ6TA4RT8bDY96yeuCVBWL3ePARCiEKDRSrNGbFIgUJpLp+XeIR65v8ra7WuJOFUBtkMA==}
     engines: {node: '>=8'}
 
-  playwright-core@1.52.0:
-    resolution: {integrity: sha512-l2osTgLXSMeuLZOML9qYODUQoPPnUsKsb5/P6LJ2e6uPKXUdPK5WYhN4z03G+YNbWmGDY4YENauNu4ZKczreHg==}
+  playwright-core@1.54.2:
+    resolution: {integrity: sha512-n5r4HFbMmWsB4twG7tJLDN9gmBUeSPcsBZiWSE4DnYz9mJMAFqr2ID7+eGC9kpEnxExJ1epttwR59LEWCk8mtA==}
     engines: {node: '>=18'}
     hasBin: true
 
-  playwright@1.52.0:
-    resolution: {integrity: sha512-JAwMNMBlxJ2oD1kce4KPtMkDeKGHQstdpFPcPH3maElAXon/QZeTvtsfXmTMRyO9TslfoYOXkSsvao2nE1ilTw==}
+  playwright@1.54.2:
+    resolution: {integrity: sha512-Hu/BMoA1NAdRUuulyvQC0pEqZ4vQbGfn8f7wPXcnqQmM+zct9UliKxsIkLNmz/ku7LElUNqmaiv1TG/aL5ACsw==}
     engines: {node: '>=18'}
     hasBin: true
 
@@ -8525,8 +8525,8 @@ packages:
   virtual-dom@2.1.1:
     resolution: {integrity: sha512-wb6Qc9Lbqug0kRqo/iuApfBpJJAq14Sk1faAnSmtqXiwahg7PVTvWMs9L02Z8nNIMqbwsxzBAA90bbtRLbw0zg==}
 
-  volar-service-typescript@0.0.64:
-    resolution: {integrity: sha512-FN2H97iqjR1id8AM4fH7lTXuTx2on9zD6QlUFllaiHKqgNrEITlQwm/9Ujrd9ST7MUzhgIKyUsa2WlanX9kkMg==}
+  volar-service-typescript@0.0.65:
+    resolution: {integrity: sha512-zPJuLIMs7lkQCvL+Rza8+3/EIoXEIkX8+DL7bNNfPgnbalbvRDhqWLVMJ6Zk3pINjLJafDqyhSbw8srfkUv97w==}
     peerDependencies:
       '@volar/language-service': ~2.4.0
     peerDependenciesMeta:
@@ -10403,7 +10403,7 @@ snapshots:
       silent-error: 1.1.1
       typescript: 5.6.3
       uuid: 8.3.2
-      volar-service-typescript: 0.0.64(@volar/language-service@2.4.0-alpha.16)
+      volar-service-typescript: 0.0.65(@volar/language-service@2.4.0-alpha.16)
       vscode-languageserver-protocol: 3.17.5
       vscode-languageserver-textdocument: 1.0.12
       vscode-uri: 3.0.8
@@ -16377,11 +16377,11 @@ snapshots:
     dependencies:
       find-up: 3.0.0
 
-  playwright-core@1.52.0: {}
+  playwright-core@1.54.2: {}
 
-  playwright@1.52.0:
+  playwright@1.54.2:
     dependencies:
-      playwright-core: 1.52.0
+      playwright-core: 1.54.2
     optionalDependencies:
       fsevents: 2.3.2
 
@@ -18185,7 +18185,7 @@ snapshots:
       x-is-array: 0.1.0
       x-is-string: 0.1.0
 
-  volar-service-typescript@0.0.64(@volar/language-service@2.4.0-alpha.16):
+  volar-service-typescript@0.0.65(@volar/language-service@2.4.0-alpha.16):
     dependencies:
       path-browserify: 1.0.1
       semver: 7.7.2
