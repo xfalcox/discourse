@@ -155,8 +155,8 @@ importers:
         specifier: ^3.49.0
         version: 3.49.0
       decorator-transforms:
-        specifier: ^2.3.1
-        version: 2.3.1(@babel/core@7.29.0)
+        specifier: ^2.3.2
+        version: 2.3.2(@babel/core@7.29.0)
       discourse:
         specifier: workspace:0.0.0
         version: link:../discourse
@@ -293,8 +293,8 @@ importers:
         specifier: 2.2.0
         version: 2.2.0(chart.js@4.5.1)
       decorator-transforms:
-        specifier: ^2.3.1
-        version: 2.3.1(@babel/core@7.29.0)
+        specifier: ^2.3.2
+        version: 2.3.2(@babel/core@7.29.0)
       diff:
         specifier: ^8.0.4
         version: 8.0.4
@@ -782,259 +782,259 @@ importers:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/chat:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/checklist:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-adplugin:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-affiliate:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-ai:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-apple-auth:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-assign:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-cakeday:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-calendar:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-chat-integration:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-data-explorer:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-details:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-gamification:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-github:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-graphviz:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-hcaptcha:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-lazy-videos:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-local-dates:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-login-with-amazon:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-lti:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-math:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-microsoft-auth:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-narrative-bot:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-oauth2-basic:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-openid-connect:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-patreon:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-policy:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-post-voting:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-presence:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-reactions:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-rss-polling:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-solved:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-subscriptions:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-templates:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-topic-voting:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-user-notes:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/discourse-zendesk-plugin:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/footnote:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/poll:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/spoiler-alert:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   plugins/styleguide:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
   themes/horizon:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.4.0-fdd750d9'
+        version: '@discourse/types@2026.5.0-640840d8'
 
 packages:
 
@@ -1778,8 +1778,8 @@ packages:
   '@discourse/moment-timezone-names-translations@1.0.0':
     resolution: {integrity: sha512-4xr1QWQ0nzmFa2ZXQgWZA+dtE/BU2ePA+qkJWPFzNpq4ZnQi8MmMMAS2285t3rc2ySMBQqYaAArmcSUiufUgRA==}
 
-  '@discourse/types@2026.4.0-fdd750d9':
-    resolution: {integrity: sha512-73Fr5RIzLK17qUdZrb2MjpYJVEnvgkh3Gm2hp6+d4krT5iI9u9AlAJaXt3ISQNBSWe1+fEY8mzizxLTQare/lg==}
+  '@discourse/types@2026.5.0-640840d8':
+    resolution: {integrity: sha512-7hTABdsykcyG5yzBVbhK28pjqPmOEU4bvC8j7jD118KUVwiqKye7wrJQtEcXICp6yygXE/NpZt410vczw9bURg==}
     engines: {node: '>= 20', npm: please-use-pnpm, pnpm: ^10, yarn: please-use-pnpm}
 
   '@ember-compat/tracked-built-ins@0.9.1':
@@ -3220,6 +3220,7 @@ packages:
   '@xmldom/xmldom@0.8.12':
     resolution: {integrity: sha512-9k/gHF6n/pAi/9tqr3m3aqkuiNosYTurLLUtc7xQ9sxB/wm7WPygCv8GYa6mS0fLJEHhqMC1ATYhz++U/lRHqg==}
     engines: {node: '>=10.0.0'}
+    deprecated: this version has critical issues, please update to the latest version
 
   '@xtuc/ieee754@1.2.0':
     resolution: {integrity: sha512-DX8nKgqcGwsc0eJSqYt5lwP4DH5FlHnmuWWBRy7X0NcaGR0ZtuyeESgMwTYVEtxmsNGY+qit4QYT/MIYTOTPeA==}
@@ -4699,8 +4700,8 @@ packages:
     resolution: {integrity: sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==}
     engines: {node: '>=0.10'}
 
-  decorator-transforms@2.3.1:
-    resolution: {integrity: sha512-PDOk74Zqqy0946Lx4ckXxbgG6uhPScOICtrxL/pXmfznxchqNee0TaJISClGJQe6FeT8ohGqsOgdjfahm4FwEw==}
+  decorator-transforms@2.3.2:
+    resolution: {integrity: sha512-XcErcjlmCzG5ODgYjt6ZTXwd6S8fPKln/sJmw15ZXkWG2JpoQNwszis+AwF6XSGlOoG7g8MCEO97g+Yw3fk5OQ==}
 
   deep-is@0.1.4:
     resolution: {integrity: sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==}
@@ -9253,6 +9254,7 @@ packages:
 
   uuid@8.3.2:
     resolution: {integrity: sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==}
+    deprecated: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
     hasBin: true
 
   validate-npm-package-license@3.0.4:
@@ -10611,7 +10613,7 @@ snapshots:
 
   '@discourse/moment-timezone-names-translations@1.0.0': {}
 
-  '@discourse/types@2026.4.0-fdd750d9': {}
+  '@discourse/types@2026.5.0-640840d8': {}
 
   '@ember-compat/tracked-built-ins@0.9.1(patch_hash=febdd1f1d24565f6f3be7747fd89cbc86a4476e2836e383610c6bc430436a842)':
     dependencies:
@@ -10719,7 +10721,7 @@ snapshots:
       '@embroider/addon-shim': 1.10.2
       '@embroider/macros': 1.20.2(@babel/core@7.29.0)(@glint/template@1.7.7)
       '@simple-dom/interface': 1.4.0
-      decorator-transforms: 2.3.1(@babel/core@7.29.0)
+      decorator-transforms: 2.3.2(@babel/core@7.29.0)
       dom-element-descriptors: 0.5.1
     transitivePeerDependencies:
       - '@babel/core'
@@ -13865,7 +13867,7 @@ snapshots:
 
   decode-uri-component@0.2.2: {}
 
-  decorator-transforms@2.3.1(@babel/core@7.29.0):
+  decorator-transforms@2.3.2(@babel/core@7.29.0):
     dependencies:
       '@babel/plugin-syntax-decorators': 7.28.6(@babel/core@7.29.0)
       babel-import-util: 3.0.1
@@ -13984,7 +13986,7 @@ snapshots:
     dependencies:
       '@ember/test-waiters': 4.1.1(@babel/core@7.29.0)(@glint/template@1.7.7)
       '@embroider/addon-shim': 1.10.2
-      decorator-transforms: 2.3.1(@babel/core@7.29.0)
+      decorator-transforms: 2.3.2(@babel/core@7.29.0)
     transitivePeerDependencies:
       - '@babel/core'
       - '@glint/template'
@@ -14123,7 +14125,7 @@ snapshots:
   ember-cli-deprecation-workflow@4.0.1(@babel/core@7.29.0):
     dependencies:
       '@embroider/addon-shim': 1.10.2
-      decorator-transforms: 2.3.1(@babel/core@7.29.0)
+      decorator-transforms: 2.3.2(@babel/core@7.29.0)
     transitivePeerDependencies:
       - '@babel/core'
       - supports-color
@@ -14411,7 +14413,7 @@ snapshots:
   ember-curry-component@0.3.1(@babel/core@7.29.0):
     dependencies:
       '@embroider/addon-shim': 1.10.2
-      decorator-transforms: 2.3.1(@babel/core@7.29.0)
+      decorator-transforms: 2.3.2(@babel/core@7.29.0)
     transitivePeerDependencies:
       - '@babel/core'
       - supports-color
@@ -14480,7 +14482,7 @@ snapshots:
   ember-modifier@4.3.0(@babel/core@7.29.0):
     dependencies:
       '@embroider/addon-shim': 1.10.2
-      decorator-transforms: 2.3.1(@babel/core@7.29.0)
+      decorator-transforms: 2.3.2(@babel/core@7.29.0)
     transitivePeerDependencies:
       - '@babel/core'
       - supports-color
