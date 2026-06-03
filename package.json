@@ -4,7 +4,7 @@
   "author": "Discourse",
   "license": "GPL-2.0-only",
   "devDependencies": {
-    "@babel/plugin-proposal-decorators": "^7.29.0",
+    "@babel/plugin-proposal-decorators": "^7.29.7",
     "@discourse/lint-configs": "^2.44.0",
     "@discourse/moment-timezone-names-translations": "^1.0.0",
     "@fortawesome/fontawesome-free": "7.2.0",
